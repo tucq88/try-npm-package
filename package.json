@@ -1,0 +1,25 @@
+{
+  "name": "@tucq88/tucq-say-hello",
+  "version": "1.0.2",
+  "description": "Install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@tucq88",
+  "license": "MIT ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tucq88/try-npm-package.git"
+  },
+  "keywords": [
+    "firs",
+    "time",
+    "npm",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/tucq88/try-npm-package/issues"
+  },
+  "homepage": "https://github.com/tucq88/try-npm-package#readme"
+}
